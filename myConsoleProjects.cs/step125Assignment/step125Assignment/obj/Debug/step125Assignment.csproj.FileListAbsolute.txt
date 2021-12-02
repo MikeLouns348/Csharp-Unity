@@ -1,0 +1,7 @@
+C:\Users\Mike's Blade\Documents\Csharp-Unity\myConsoleProjects.cs\step125Assignment\step125Assignment\bin\Debug\step125Assignment.exe.config
+C:\Users\Mike's Blade\Documents\Csharp-Unity\myConsoleProjects.cs\step125Assignment\step125Assignment\bin\Debug\step125Assignment.exe
+C:\Users\Mike's Blade\Documents\Csharp-Unity\myConsoleProjects.cs\step125Assignment\step125Assignment\bin\Debug\step125Assignment.pdb
+C:\Users\Mike's Blade\Documents\Csharp-Unity\myConsoleProjects.cs\step125Assignment\step125Assignment\obj\Debug\step125Assignment.csproj.AssemblyReference.cache
+C:\Users\Mike's Blade\Documents\Csharp-Unity\myConsoleProjects.cs\step125Assignment\step125Assignment\obj\Debug\step125Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Mike's Blade\Documents\Csharp-Unity\myConsoleProjects.cs\step125Assignment\step125Assignment\obj\Debug\step125Assignment.exe
+C:\Users\Mike's Blade\Documents\Csharp-Unity\myConsoleProjects.cs\step125Assignment\step125Assignment\obj\Debug\step125Assignment.pdb

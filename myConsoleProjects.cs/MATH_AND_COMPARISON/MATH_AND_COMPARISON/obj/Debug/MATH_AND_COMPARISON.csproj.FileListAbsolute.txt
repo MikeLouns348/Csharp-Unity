@@ -1,0 +1,7 @@
+C:\Users\Mike's Blade\Documents\Csharp-Unity\myConsoleProjects.cs\MATH_AND_COMPARISON\MATH_AND_COMPARISON\bin\Debug\MATH_AND_COMPARISON.exe.config
+C:\Users\Mike's Blade\Documents\Csharp-Unity\myConsoleProjects.cs\MATH_AND_COMPARISON\MATH_AND_COMPARISON\bin\Debug\MATH_AND_COMPARISON.exe
+C:\Users\Mike's Blade\Documents\Csharp-Unity\myConsoleProjects.cs\MATH_AND_COMPARISON\MATH_AND_COMPARISON\bin\Debug\MATH_AND_COMPARISON.pdb
+C:\Users\Mike's Blade\Documents\Csharp-Unity\myConsoleProjects.cs\MATH_AND_COMPARISON\MATH_AND_COMPARISON\obj\Debug\MATH_AND_COMPARISON.csproj.AssemblyReference.cache
+C:\Users\Mike's Blade\Documents\Csharp-Unity\myConsoleProjects.cs\MATH_AND_COMPARISON\MATH_AND_COMPARISON\obj\Debug\MATH_AND_COMPARISON.csproj.CoreCompileInputs.cache
+C:\Users\Mike's Blade\Documents\Csharp-Unity\myConsoleProjects.cs\MATH_AND_COMPARISON\MATH_AND_COMPARISON\obj\Debug\MATH_AND_COMPARISON.exe
+C:\Users\Mike's Blade\Documents\Csharp-Unity\myConsoleProjects.cs\MATH_AND_COMPARISON\MATH_AND_COMPARISON\obj\Debug\MATH_AND_COMPARISON.pdb
