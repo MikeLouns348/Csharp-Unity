@@ -1,0 +1,7 @@
+C:\Users\Mike's Blade\Documents\Csharp-Unity\myConsoleProjects.cs\BoolLogic\BoolLogic\obj\Debug\BoolLogic.csproj.AssemblyReference.cache
+C:\Users\Mike's Blade\Documents\Csharp-Unity\myConsoleProjects.cs\BoolLogic\BoolLogic\obj\Debug\BoolLogic.csproj.CoreCompileInputs.cache
+C:\Users\Mike's Blade\Documents\Csharp-Unity\myConsoleProjects.cs\BoolLogic\BoolLogic\bin\Debug\BoolLogic.exe.config
+C:\Users\Mike's Blade\Documents\Csharp-Unity\myConsoleProjects.cs\BoolLogic\BoolLogic\bin\Debug\BoolLogic.exe
+C:\Users\Mike's Blade\Documents\Csharp-Unity\myConsoleProjects.cs\BoolLogic\BoolLogic\bin\Debug\BoolLogic.pdb
+C:\Users\Mike's Blade\Documents\Csharp-Unity\myConsoleProjects.cs\BoolLogic\BoolLogic\obj\Debug\BoolLogic.exe
+C:\Users\Mike's Blade\Documents\Csharp-Unity\myConsoleProjects.cs\BoolLogic\BoolLogic\obj\Debug\BoolLogic.pdb
