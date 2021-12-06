@@ -1,0 +1,7 @@
+C:\Users\Mike's Blade\Documents\Csharp-Unity\myConsoleProjects.cs\SwitchChallenge\SwitchChallenge\bin\Debug\SwitchChallenge.exe.config
+C:\Users\Mike's Blade\Documents\Csharp-Unity\myConsoleProjects.cs\SwitchChallenge\SwitchChallenge\bin\Debug\SwitchChallenge.exe
+C:\Users\Mike's Blade\Documents\Csharp-Unity\myConsoleProjects.cs\SwitchChallenge\SwitchChallenge\bin\Debug\SwitchChallenge.pdb
+C:\Users\Mike's Blade\Documents\Csharp-Unity\myConsoleProjects.cs\SwitchChallenge\SwitchChallenge\obj\Debug\SwitchChallenge.csproj.AssemblyReference.cache
+C:\Users\Mike's Blade\Documents\Csharp-Unity\myConsoleProjects.cs\SwitchChallenge\SwitchChallenge\obj\Debug\SwitchChallenge.csproj.CoreCompileInputs.cache
+C:\Users\Mike's Blade\Documents\Csharp-Unity\myConsoleProjects.cs\SwitchChallenge\SwitchChallenge\obj\Debug\SwitchChallenge.exe
+C:\Users\Mike's Blade\Documents\Csharp-Unity\myConsoleProjects.cs\SwitchChallenge\SwitchChallenge\obj\Debug\SwitchChallenge.pdb
