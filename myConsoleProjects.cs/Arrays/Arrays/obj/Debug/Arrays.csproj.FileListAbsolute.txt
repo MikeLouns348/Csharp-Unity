@@ -1,0 +1,7 @@
+C:\Users\Mike's Blade\Documents\Csharp-Unity\myConsoleProjects.cs\Arrays\Arrays\bin\Debug\Arrays.exe.config
+C:\Users\Mike's Blade\Documents\Csharp-Unity\myConsoleProjects.cs\Arrays\Arrays\bin\Debug\Arrays.exe
+C:\Users\Mike's Blade\Documents\Csharp-Unity\myConsoleProjects.cs\Arrays\Arrays\bin\Debug\Arrays.pdb
+C:\Users\Mike's Blade\Documents\Csharp-Unity\myConsoleProjects.cs\Arrays\Arrays\obj\Debug\Arrays.csproj.AssemblyReference.cache
+C:\Users\Mike's Blade\Documents\Csharp-Unity\myConsoleProjects.cs\Arrays\Arrays\obj\Debug\Arrays.csproj.CoreCompileInputs.cache
+C:\Users\Mike's Blade\Documents\Csharp-Unity\myConsoleProjects.cs\Arrays\Arrays\obj\Debug\Arrays.exe
+C:\Users\Mike's Blade\Documents\Csharp-Unity\myConsoleProjects.cs\Arrays\Arrays\obj\Debug\Arrays.pdb
