@@ -1,0 +1,6 @@
+C:\Users\Mike's Blade\Documents\Csharp-Unity\myConsoleProjects.cs\Exceptions\Exceptions\bin\Debug\Exceptions.exe.config
+C:\Users\Mike's Blade\Documents\Csharp-Unity\myConsoleProjects.cs\Exceptions\Exceptions\bin\Debug\Exceptions.exe
+C:\Users\Mike's Blade\Documents\Csharp-Unity\myConsoleProjects.cs\Exceptions\Exceptions\bin\Debug\Exceptions.pdb
+C:\Users\Mike's Blade\Documents\Csharp-Unity\myConsoleProjects.cs\Exceptions\Exceptions\obj\Debug\Exceptions.csproj.CoreCompileInputs.cache
+C:\Users\Mike's Blade\Documents\Csharp-Unity\myConsoleProjects.cs\Exceptions\Exceptions\obj\Debug\Exceptions.exe
+C:\Users\Mike's Blade\Documents\Csharp-Unity\myConsoleProjects.cs\Exceptions\Exceptions\obj\Debug\Exceptions.pdb
