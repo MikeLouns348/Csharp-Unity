@@ -1,0 +1,7 @@
+C:\Users\Mike's Blade\Documents\Csharp-Unity\myConsoleProjects.cs\6PartAssignment\6PartAssignment\obj\Debug\6PartAssignment.csproj.AssemblyReference.cache
+C:\Users\Mike's Blade\Documents\Csharp-Unity\myConsoleProjects.cs\6PartAssignment\6PartAssignment\obj\Debug\6PartAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Mike's Blade\Documents\Csharp-Unity\myConsoleProjects.cs\6PartAssignment\6PartAssignment\bin\Debug\6PartAssignment.exe.config
+C:\Users\Mike's Blade\Documents\Csharp-Unity\myConsoleProjects.cs\6PartAssignment\6PartAssignment\bin\Debug\6PartAssignment.exe
+C:\Users\Mike's Blade\Documents\Csharp-Unity\myConsoleProjects.cs\6PartAssignment\6PartAssignment\bin\Debug\6PartAssignment.pdb
+C:\Users\Mike's Blade\Documents\Csharp-Unity\myConsoleProjects.cs\6PartAssignment\6PartAssignment\obj\Debug\6PartAssignment.exe
+C:\Users\Mike's Blade\Documents\Csharp-Unity\myConsoleProjects.cs\6PartAssignment\6PartAssignment\obj\Debug\6PartAssignment.pdb

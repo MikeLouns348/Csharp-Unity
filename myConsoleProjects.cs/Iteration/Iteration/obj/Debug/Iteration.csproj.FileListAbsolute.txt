@@ -1,0 +1,6 @@
+C:\Users\Mike's Blade\Documents\Csharp-Unity\myConsoleProjects.cs\Iteration\Iteration\bin\Debug\Iteration.exe.config
+C:\Users\Mike's Blade\Documents\Csharp-Unity\myConsoleProjects.cs\Iteration\Iteration\bin\Debug\Iteration.exe
+C:\Users\Mike's Blade\Documents\Csharp-Unity\myConsoleProjects.cs\Iteration\Iteration\bin\Debug\Iteration.pdb
+C:\Users\Mike's Blade\Documents\Csharp-Unity\myConsoleProjects.cs\Iteration\Iteration\obj\Debug\Iteration.csproj.CoreCompileInputs.cache
+C:\Users\Mike's Blade\Documents\Csharp-Unity\myConsoleProjects.cs\Iteration\Iteration\obj\Debug\Iteration.exe
+C:\Users\Mike's Blade\Documents\Csharp-Unity\myConsoleProjects.cs\Iteration\Iteration\obj\Debug\Iteration.pdb
