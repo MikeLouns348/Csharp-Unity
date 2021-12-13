@@ -10,19 +10,13 @@ namespace MethodMath
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Number * 5?");
-            Multiply multiply = new Multiply();
-            Console.WriteLine(multiply);
-            //Console.ReadLine();
-            
-            Console.WriteLine("Number - 5?");
-            Subtraction subtraction = new Subtraction();
-            Console.WriteLine(subtraction);
-            //Console.ReadLine();
-
-            Console.WriteLine("Number + 5?");
-            Addition addition = new Addition();
-            Console.WriteLine(addition);
+            Math math = new Math();
+            Console.WriteLine("Choose a number to add to 5, subtract by 5 and multiply by 5.");
+            int userNum = Convert.ToInt32(Console.ReadLine());
+            math.Addition1(userNum);
+            math.Subtraction1(userNum);
+            math.Multiply1(userNum);
+           
             Console.ReadLine();
         }
         

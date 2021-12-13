@@ -43,11 +43,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="addition.cs" />
-    <Compile Include="multiply.cs" />
+    <Compile Include="Math.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="subtraction.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
