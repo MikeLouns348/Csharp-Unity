@@ -1,0 +1,7 @@
+C:\Users\Mike's Blade\Documents\Csharp-Unity\myConsoleProjects.cs\TwentyOne\TwentyOne\bin\Debug\TwentyOne.exe.config
+C:\Users\Mike's Blade\Documents\Csharp-Unity\myConsoleProjects.cs\TwentyOne\TwentyOne\bin\Debug\TwentyOne.exe
+C:\Users\Mike's Blade\Documents\Csharp-Unity\myConsoleProjects.cs\TwentyOne\TwentyOne\bin\Debug\TwentyOne.pdb
+C:\Users\Mike's Blade\Documents\Csharp-Unity\myConsoleProjects.cs\TwentyOne\TwentyOne\obj\Debug\TwentyOne.csproj.AssemblyReference.cache
+C:\Users\Mike's Blade\Documents\Csharp-Unity\myConsoleProjects.cs\TwentyOne\TwentyOne\obj\Debug\TwentyOne.csproj.CoreCompileInputs.cache
+C:\Users\Mike's Blade\Documents\Csharp-Unity\myConsoleProjects.cs\TwentyOne\TwentyOne\obj\Debug\TwentyOne.exe
+C:\Users\Mike's Blade\Documents\Csharp-Unity\myConsoleProjects.cs\TwentyOne\TwentyOne\obj\Debug\TwentyOne.pdb
