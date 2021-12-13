@@ -1,0 +1,7 @@
+C:\Users\Mike's Blade\Documents\Csharp-Unity\myConsoleProjects.cs\MethodMath2\MethodMath2\bin\Debug\MethodMath2.exe.config
+C:\Users\Mike's Blade\Documents\Csharp-Unity\myConsoleProjects.cs\MethodMath2\MethodMath2\bin\Debug\MethodMath2.exe
+C:\Users\Mike's Blade\Documents\Csharp-Unity\myConsoleProjects.cs\MethodMath2\MethodMath2\bin\Debug\MethodMath2.pdb
+C:\Users\Mike's Blade\Documents\Csharp-Unity\myConsoleProjects.cs\MethodMath2\MethodMath2\obj\Debug\MethodMath2.csproj.AssemblyReference.cache
+C:\Users\Mike's Blade\Documents\Csharp-Unity\myConsoleProjects.cs\MethodMath2\MethodMath2\obj\Debug\MethodMath2.csproj.CoreCompileInputs.cache
+C:\Users\Mike's Blade\Documents\Csharp-Unity\myConsoleProjects.cs\MethodMath2\MethodMath2\obj\Debug\MethodMath2.exe
+C:\Users\Mike's Blade\Documents\Csharp-Unity\myConsoleProjects.cs\MethodMath2\MethodMath2\obj\Debug\MethodMath2.pdb
