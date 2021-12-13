@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MethodMath4", "MethodMath4\MethodMath4.csproj", "{0BCC1889-6173-4ED4-A586-BD29AD6FAEAE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0BCC1889-6173-4ED4-A586-BD29AD6FAEAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BCC1889-6173-4ED4-A586-BD29AD6FAEAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BCC1889-6173-4ED4-A586-BD29AD6FAEAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BCC1889-6173-4ED4-A586-BD29AD6FAEAE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FF75C87A-A5BC-4503-8E44-7887AE5DBEC9}
+	EndGlobalSection
+EndGlobal

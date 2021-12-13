@@ -1,0 +1,7 @@
+C:\Users\Mike's Blade\Documents\Csharp-Unity\myConsoleProjects.cs\MethodMath4\MethodMath4\obj\Debug\MethodMath4.csproj.AssemblyReference.cache
+C:\Users\Mike's Blade\Documents\Csharp-Unity\myConsoleProjects.cs\MethodMath4\MethodMath4\obj\Debug\MethodMath4.csproj.CoreCompileInputs.cache
+C:\Users\Mike's Blade\Documents\Csharp-Unity\myConsoleProjects.cs\MethodMath4\MethodMath4\bin\Debug\MethodMath4.exe.config
+C:\Users\Mike's Blade\Documents\Csharp-Unity\myConsoleProjects.cs\MethodMath4\MethodMath4\bin\Debug\MethodMath4.exe
+C:\Users\Mike's Blade\Documents\Csharp-Unity\myConsoleProjects.cs\MethodMath4\MethodMath4\bin\Debug\MethodMath4.pdb
+C:\Users\Mike's Blade\Documents\Csharp-Unity\myConsoleProjects.cs\MethodMath4\MethodMath4\obj\Debug\MethodMath4.exe
+C:\Users\Mike's Blade\Documents\Csharp-Unity\myConsoleProjects.cs\MethodMath4\MethodMath4\obj\Debug\MethodMath4.pdb
