@@ -10,21 +10,32 @@ namespace TwentyOne
     {
         static void Main(string[] args)
         {
+            TwentyOneGame game = new TwentyOneGame();
+            game.Players = new List<string>() {"Mike", "Hanna", "Ethan" };
+            game.ListPlayer();
+            game.Play();
+            Console.ReadLine();
+           
+            
+            
+            //game.Dealer = "mike";
+            //game.Name = "Twenty One";
+            
 
-            Deck deck = new Deck();
-            deck.Shuffle(3);
+            //Deck deck = new Deck();
+            //deck.Shuffle(3);
       
 
-            foreach (Card card in deck.Cards)
-            {
+            //foreach (Card card in deck.Cards)
+            //{
             
-                Console.WriteLine(card.Face + " of " + card.Suit);
+            //    Console.WriteLine(card.Face + " of " + card.Suit);
                
-            }
-            Console.WriteLine(deck.Cards.Count);
+            //}
+            //Console.WriteLine(deck.Cards.Count);
 
             
-            Console.ReadLine();
+            //Console.ReadLine();
         }
 
         

@@ -1,0 +1,7 @@
+C:\Users\Mike's Blade\Documents\Csharp-Unity\myConsoleProjects.cs\MethodsAndObjects\MethodsAndObjects\bin\Debug\MethodsAndObjects.exe.config
+C:\Users\Mike's Blade\Documents\Csharp-Unity\myConsoleProjects.cs\MethodsAndObjects\MethodsAndObjects\bin\Debug\MethodsAndObjects.exe
+C:\Users\Mike's Blade\Documents\Csharp-Unity\myConsoleProjects.cs\MethodsAndObjects\MethodsAndObjects\bin\Debug\MethodsAndObjects.pdb
+C:\Users\Mike's Blade\Documents\Csharp-Unity\myConsoleProjects.cs\MethodsAndObjects\MethodsAndObjects\obj\Debug\MethodsAndObjects.csproj.AssemblyReference.cache
+C:\Users\Mike's Blade\Documents\Csharp-Unity\myConsoleProjects.cs\MethodsAndObjects\MethodsAndObjects\obj\Debug\MethodsAndObjects.csproj.CoreCompileInputs.cache
+C:\Users\Mike's Blade\Documents\Csharp-Unity\myConsoleProjects.cs\MethodsAndObjects\MethodsAndObjects\obj\Debug\MethodsAndObjects.exe
+C:\Users\Mike's Blade\Documents\Csharp-Unity\myConsoleProjects.cs\MethodsAndObjects\MethodsAndObjects\obj\Debug\MethodsAndObjects.pdb
