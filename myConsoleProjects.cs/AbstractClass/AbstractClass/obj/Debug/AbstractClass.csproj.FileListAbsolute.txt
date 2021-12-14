@@ -1,0 +1,7 @@
+C:\Users\Mike's Blade\Documents\Csharp-Unity\myConsoleProjects.cs\AbstractClass\AbstractClass\bin\Debug\AbstractClass.exe.config
+C:\Users\Mike's Blade\Documents\Csharp-Unity\myConsoleProjects.cs\AbstractClass\AbstractClass\bin\Debug\AbstractClass.exe
+C:\Users\Mike's Blade\Documents\Csharp-Unity\myConsoleProjects.cs\AbstractClass\AbstractClass\bin\Debug\AbstractClass.pdb
+C:\Users\Mike's Blade\Documents\Csharp-Unity\myConsoleProjects.cs\AbstractClass\AbstractClass\obj\Debug\AbstractClass.csproj.AssemblyReference.cache
+C:\Users\Mike's Blade\Documents\Csharp-Unity\myConsoleProjects.cs\AbstractClass\AbstractClass\obj\Debug\AbstractClass.csproj.CoreCompileInputs.cache
+C:\Users\Mike's Blade\Documents\Csharp-Unity\myConsoleProjects.cs\AbstractClass\AbstractClass\obj\Debug\AbstractClass.exe
+C:\Users\Mike's Blade\Documents\Csharp-Unity\myConsoleProjects.cs\AbstractClass\AbstractClass\obj\Debug\AbstractClass.pdb
