@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace AbstractClass
 {
-    public class Person
+    public abstract class Person
     {
         public Person()
         {
