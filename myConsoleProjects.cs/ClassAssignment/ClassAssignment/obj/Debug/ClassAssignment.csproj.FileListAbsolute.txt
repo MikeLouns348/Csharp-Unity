@@ -1,0 +1,7 @@
+C:\Users\Mike's Blade\Documents\Csharp-Unity\myConsoleProjects.cs\ClassAssignment\ClassAssignment\bin\Debug\ClassAssignment.exe.config
+C:\Users\Mike's Blade\Documents\Csharp-Unity\myConsoleProjects.cs\ClassAssignment\ClassAssignment\bin\Debug\ClassAssignment.exe
+C:\Users\Mike's Blade\Documents\Csharp-Unity\myConsoleProjects.cs\ClassAssignment\ClassAssignment\bin\Debug\ClassAssignment.pdb
+C:\Users\Mike's Blade\Documents\Csharp-Unity\myConsoleProjects.cs\ClassAssignment\ClassAssignment\obj\Debug\ClassAssignment.csproj.AssemblyReference.cache
+C:\Users\Mike's Blade\Documents\Csharp-Unity\myConsoleProjects.cs\ClassAssignment\ClassAssignment\obj\Debug\ClassAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Mike's Blade\Documents\Csharp-Unity\myConsoleProjects.cs\ClassAssignment\ClassAssignment\obj\Debug\ClassAssignment.exe
+C:\Users\Mike's Blade\Documents\Csharp-Unity\myConsoleProjects.cs\ClassAssignment\ClassAssignment\obj\Debug\ClassAssignment.pdb
