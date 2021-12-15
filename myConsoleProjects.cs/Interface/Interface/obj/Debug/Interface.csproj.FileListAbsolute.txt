@@ -1,0 +1,6 @@
+C:\Users\Mike's Blade\Documents\Csharp-Unity\myConsoleProjects.cs\Interface\Interface\bin\Debug\Interface.exe.config
+C:\Users\Mike's Blade\Documents\Csharp-Unity\myConsoleProjects.cs\Interface\Interface\bin\Debug\Interface.exe
+C:\Users\Mike's Blade\Documents\Csharp-Unity\myConsoleProjects.cs\Interface\Interface\bin\Debug\Interface.pdb
+C:\Users\Mike's Blade\Documents\Csharp-Unity\myConsoleProjects.cs\Interface\Interface\obj\Debug\Interface.csproj.CoreCompileInputs.cache
+C:\Users\Mike's Blade\Documents\Csharp-Unity\myConsoleProjects.cs\Interface\Interface\obj\Debug\Interface.exe
+C:\Users\Mike's Blade\Documents\Csharp-Unity\myConsoleProjects.cs\Interface\Interface\obj\Debug\Interface.pdb
