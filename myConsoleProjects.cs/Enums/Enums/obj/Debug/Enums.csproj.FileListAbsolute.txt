@@ -1,0 +1,7 @@
+C:\Users\Mike's Blade\Documents\Csharp-Unity\myConsoleProjects.cs\Enums\Enums\bin\Debug\Enums.exe.config
+C:\Users\Mike's Blade\Documents\Csharp-Unity\myConsoleProjects.cs\Enums\Enums\bin\Debug\Enums.exe
+C:\Users\Mike's Blade\Documents\Csharp-Unity\myConsoleProjects.cs\Enums\Enums\bin\Debug\Enums.pdb
+C:\Users\Mike's Blade\Documents\Csharp-Unity\myConsoleProjects.cs\Enums\Enums\obj\Debug\Enums.csproj.AssemblyReference.cache
+C:\Users\Mike's Blade\Documents\Csharp-Unity\myConsoleProjects.cs\Enums\Enums\obj\Debug\Enums.csproj.CoreCompileInputs.cache
+C:\Users\Mike's Blade\Documents\Csharp-Unity\myConsoleProjects.cs\Enums\Enums\obj\Debug\Enums.exe
+C:\Users\Mike's Blade\Documents\Csharp-Unity\myConsoleProjects.cs\Enums\Enums\obj\Debug\Enums.pdb
