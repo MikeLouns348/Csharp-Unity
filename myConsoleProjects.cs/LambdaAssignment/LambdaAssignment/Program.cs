@@ -110,17 +110,17 @@ namespace LambdaAssignment
             //    }
             //}
 
-            List<Employee> newList = Employees.Where(x => x.FirstName == "Joe").ToList();
-            foreach (Employee person in newList)
-            {
-                Console.WriteLine(person.FirstName + " " + person.LastName + " " + person.Id);
-            }
-
-            //List<Employee> newList = Employees.Where(x => x.Id > 5).ToList();
+            //List<Employee> newList = Employees.Where(x => x.FirstName == "Joe").ToList();
             //foreach (Employee person in newList)
             //{
             //    Console.WriteLine(person.FirstName + " " + person.LastName + " " + person.Id);
             //}
+
+            List<Employee> newList = Employees.Where(x => x.Id > 5).ToList();
+            foreach (Employee person in newList)
+            {
+                Console.WriteLine(person.FirstName + " " + person.LastName + " " + person.Id);
+            }
 
             Console.ReadLine();
         }
