@@ -29,28 +29,75 @@ namespace TwentyOne
             //game.ListPlayers();
             //Console.ReadLine();
 
-            Game game = new TwentyOneGame();
-            game.Players = new List<Player>();
-            Player player = new Player();
-            player.Name = "Mike";
-            //game = game + player;
-            //game = game - player;
+            //Game game = new TwentyOneGame();
+            //game.Players = new List<Player>();
+            //Player player = new Player();
+            //player.Name = "Mike";
+            ////game = game + player;
+            ////game = game - player;
+
+            ////adds the palyer
+            //game += player;
+            ////removes the player
+            //game -= player;
+
+            //Card card = new Card();
+            //card.Suit = Suit.Clubs;
+            //int underlyingValue = Convert.ToInt32(Suit.Diamonds);
+            //Console.WriteLine(underlyingValue);
+
             
-            //adds the palyer
-            game += player;
-            //removes the player
-            game -= player;
+            
+            //Card card1 = new Card();
+            //Card card2 = card1;
+            //card1.Face = Face.Eight;
+            //card2.Face = Face.King;
+
+            //Console.WriteLine(card2.Face);
+            //Console.ReadLine();
+
+            //Deck deck = new Deck();
+
+            //int counter = 0;
+            //foreach (Card card in deck.Cards)
+            //{
+            //    if (card.Face == Face.Ace)
+            //    {
+            //        counter++;
+            //    }
+            //}
+            //Console.WriteLine(counter);
+            //Console.ReadLine();
+
 
             Deck deck = new Deck();
-            deck.Shuffle(3);
+            //lamda version of counting foreach loop
+            //int counter = deck.Cards.Count(x => x.Face == Face.Ace);
 
+            //lamda list filtering
+            //List<Card> newList = deck.Cards.Where(x => x.Face == Face.King).ToList();
 
-            foreach (Card card in deck.Cards)
-            {
-                Console.WriteLine(card.Face + " of " + card.Suit);
-            }
-            Console.WriteLine(deck.Cards.Count);
+            //foreach (Card card in newList)
+            //{
+            //    Console.WriteLine(card.Face);
+            //}
+
+            //lamda math function example .Sum() could be substituted with any of the itmes on the dropdown list
+            List<int> numberList = new List<int> {1,2,3,535, 342,23 };
+            //int sum = numberList.Sum(x => x + 5);
+            int sum = numberList.Where(x => x > 20).Sum();
+            Console.WriteLine(sum);
             Console.ReadLine();
+
+            //deck.Shuffle(3);
+
+
+            //foreach (Card card in deck.Cards)
+            //{
+            //    Console.WriteLine(card.Face + " of " + card.Suit);
+            //}
+            //Console.WriteLine(deck.Cards.Count);
+            //Console.ReadLine();
         }
 
         

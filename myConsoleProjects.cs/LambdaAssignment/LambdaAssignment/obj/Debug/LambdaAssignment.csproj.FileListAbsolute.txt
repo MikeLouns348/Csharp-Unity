@@ -1,0 +1,7 @@
+C:\Users\Mike's Blade\Documents\Csharp-Unity\myConsoleProjects.cs\LambdaAssignment\LambdaAssignment\bin\Debug\LambdaAssignment.exe.config
+C:\Users\Mike's Blade\Documents\Csharp-Unity\myConsoleProjects.cs\LambdaAssignment\LambdaAssignment\bin\Debug\LambdaAssignment.exe
+C:\Users\Mike's Blade\Documents\Csharp-Unity\myConsoleProjects.cs\LambdaAssignment\LambdaAssignment\bin\Debug\LambdaAssignment.pdb
+C:\Users\Mike's Blade\Documents\Csharp-Unity\myConsoleProjects.cs\LambdaAssignment\LambdaAssignment\obj\Debug\LambdaAssignment.csproj.AssemblyReference.cache
+C:\Users\Mike's Blade\Documents\Csharp-Unity\myConsoleProjects.cs\LambdaAssignment\LambdaAssignment\obj\Debug\LambdaAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Mike's Blade\Documents\Csharp-Unity\myConsoleProjects.cs\LambdaAssignment\LambdaAssignment\obj\Debug\LambdaAssignment.exe
+C:\Users\Mike's Blade\Documents\Csharp-Unity\myConsoleProjects.cs\LambdaAssignment\LambdaAssignment\obj\Debug\LambdaAssignment.pdb

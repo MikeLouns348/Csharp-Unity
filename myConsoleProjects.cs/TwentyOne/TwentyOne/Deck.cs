@@ -12,19 +12,14 @@ namespace TwentyOne
         {
             //Cards is a property of the class Deck
             Cards = new List<Card>();
-            List<string> Suits = new List<string>() { "Hearts", "Diamonds", "Spades", "Clubs" };
-            List<string> Faces = new List<string>() 
-            { 
-                "Two", "Three", "Four", "Five", "Six", "Seven", "Eight", "Nine", "Ten", "Jack", "Queen", "King", "Ace" 
-            };
-
-            foreach (string face in Faces)
+        
+            for (int j = 0; j<13; j++)
             {
-                foreach (string suit in Suits)
+                for (int n = 0; n < 4; n++)
                 {
                     Card card = new Card();
-                    card.Suit = suit;
-                    card.Face = face;
+                    card.Face = (Face)j;
+                    card.Suit = (Suit)n;
                     Cards.Add(card);
                 }
             }
