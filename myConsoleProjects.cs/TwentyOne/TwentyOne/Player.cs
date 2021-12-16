@@ -8,6 +8,14 @@ namespace TwentyOne
 {
     public class Player
     {
+       //this is a constructor 
+        public Player(string name, int beginningBalance)
+        {
+            Hand = new List<Card>();
+            Balance = beginningBalance;
+            Name = name;
+        }        
+            
         public List<Card> Hand { get; set; }
         public int Balance { get; set; }
         public string Name { get; set; }
