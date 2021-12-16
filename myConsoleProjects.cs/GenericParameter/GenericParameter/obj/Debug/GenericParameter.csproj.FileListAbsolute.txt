@@ -1,0 +1,7 @@
+C:\Users\Mike's Blade\Documents\Csharp-Unity\myConsoleProjects.cs\GenericParameter\GenericParameter\bin\Debug\GenericParameter.exe.config
+C:\Users\Mike's Blade\Documents\Csharp-Unity\myConsoleProjects.cs\GenericParameter\GenericParameter\bin\Debug\GenericParameter.exe
+C:\Users\Mike's Blade\Documents\Csharp-Unity\myConsoleProjects.cs\GenericParameter\GenericParameter\bin\Debug\GenericParameter.pdb
+C:\Users\Mike's Blade\Documents\Csharp-Unity\myConsoleProjects.cs\GenericParameter\GenericParameter\obj\Debug\GenericParameter.csproj.AssemblyReference.cache
+C:\Users\Mike's Blade\Documents\Csharp-Unity\myConsoleProjects.cs\GenericParameter\GenericParameter\obj\Debug\GenericParameter.csproj.CoreCompileInputs.cache
+C:\Users\Mike's Blade\Documents\Csharp-Unity\myConsoleProjects.cs\GenericParameter\GenericParameter\obj\Debug\GenericParameter.exe
+C:\Users\Mike's Blade\Documents\Csharp-Unity\myConsoleProjects.cs\GenericParameter\GenericParameter\obj\Debug\GenericParameter.pdb
