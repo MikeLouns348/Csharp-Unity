@@ -1,0 +1,7 @@
+C:\Users\Mike's Blade\Documents\Csharp-Unity\myConsoleProjects.cs\TimeAssignment\TimeAssignment\bin\Debug\TimeAssignment.exe.config
+C:\Users\Mike's Blade\Documents\Csharp-Unity\myConsoleProjects.cs\TimeAssignment\TimeAssignment\bin\Debug\TimeAssignment.exe
+C:\Users\Mike's Blade\Documents\Csharp-Unity\myConsoleProjects.cs\TimeAssignment\TimeAssignment\bin\Debug\TimeAssignment.pdb
+C:\Users\Mike's Blade\Documents\Csharp-Unity\myConsoleProjects.cs\TimeAssignment\TimeAssignment\obj\Debug\TimeAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Mike's Blade\Documents\Csharp-Unity\myConsoleProjects.cs\TimeAssignment\TimeAssignment\obj\Debug\TimeAssignment.exe
+C:\Users\Mike's Blade\Documents\Csharp-Unity\myConsoleProjects.cs\TimeAssignment\TimeAssignment\obj\Debug\TimeAssignment.pdb
+C:\Users\Mike's Blade\Documents\Csharp-Unity\myConsoleProjects.cs\TimeAssignment\TimeAssignment\obj\Debug\TimeAssignment.csproj.AssemblyReference.cache
