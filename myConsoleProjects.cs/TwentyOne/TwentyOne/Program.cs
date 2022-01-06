@@ -13,10 +13,10 @@ namespace TwentyOne
         {
             //string text = "Here is some text";
             //File.WriteAllText(@"C:\Users\Mike's Blade\Logs\log.txt", text);
-            DateTime yearOfBirth = new DateTime(1995, 5, 23, 8, 32, 45);
-            DateTime yearOfGraduation = new DateTime(2013, 6, 1, 16, 34, 22);
+            //DateTime yearOfBirth = new DateTime(1995, 5, 23, 8, 32, 45);
+            //DateTime yearOfGraduation = new DateTime(2013, 6, 1, 16, 34, 22);
 
-            TimeSpan ageAtGraduation = yearOfGraduation - yearOfBirth;
+            //TimeSpan ageAtGraduation = yearOfGraduation - yearOfBirth;
 
             Console.WriteLine("Welcome to the Casino. Whats your name?");
             string playerName = Console.ReadLine();
